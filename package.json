@@ -1,6 +1,9 @@
 {
   "name": "developer-quiz",
   "version": "1.0.0",
+  "engines": {
+    "node": "12.3.x"
+  },
   "description": "",
   "main": "index.js",
   "scripts": {
