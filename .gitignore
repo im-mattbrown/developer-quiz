@@ -1,4 +1,4 @@
 node_modules/
 .next/
 *.log
-pages/__tests__/
+jest.config.js
